@@ -289,10 +289,3 @@ BİLİNMESİ GEREKENLER / SINIRLAMALAR
 - Bir kursu veya kursiyeri silmek GERİ ALINAMAZ; "Kurs/Kursiyer
   Düzenle" ekranında bu yüzden her silme işleminden önce onay
   istenir.
-
-
-SORU VE DEĞİŞİKLİK TALEPLERİ
-------------------------------
-Kursiyer kodunu otomatik üretmek, haftalık/aylık raporlama, birden
-fazla öğretmenin aynı kursa girmesi gibi ek özellikler için geri
-bildiriminizi bekliyoruz.
